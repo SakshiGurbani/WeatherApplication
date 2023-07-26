@@ -1,4 +1,10 @@
- ## Description
+![Screenshot (97)](https://github.com/SakshiGurbani/WeatherApplication/assets/126910217/8e26c972-9343-4a9d-bf51-2e699e174681)
+ 
+ 
+ 
+![Screenshot (97)](https://github.com/SakshiGurbani/WeatherApplication/assets/126910217/5a023f38-b331-4f96-9022-399af5efff43)
+
+##Description
 
 The Weather App is a simple and user-friendly application that allows users to get weather information for any location in the world. It provides current weather data, forecasts, and additional details like humidity, wind speed, and more.
 
