@@ -1,8 +1,6 @@
-![Screenshot (97)](https://github.com/SakshiGurbani/WeatherApplication/assets/126910217/8e26c972-9343-4a9d-bf51-2e699e174681)
- 
- 
- 
-![Screenshot (97)](https://github.com/SakshiGurbani/WeatherApplication/assets/126910217/5a023f38-b331-4f96-9022-399af5efff43)
+
+![WhatsApp Image 2023-07-26 at 2 41 08 PM](https://github.com/SakshiGurbani/WeatherApplication/assets/126910217/dc003e14-b387-46a2-8ad2-7b4f44abc861)
+
 
 ##Description
 
