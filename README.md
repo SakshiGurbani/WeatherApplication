@@ -2,7 +2,7 @@
 ![WhatsApp Image 2023-07-26 at 2 41 08 PM](https://github.com/SakshiGurbani/WeatherApplication/assets/126910217/dc003e14-b387-46a2-8ad2-7b4f44abc861)
 
 
-##Description
+## Description
 
 The Weather App is a simple and user-friendly application that allows users to get weather information for any location in the world. It provides current weather data, forecasts, and additional details like humidity, wind speed, and more.
 
